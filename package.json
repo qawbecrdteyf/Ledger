@@ -1,0 +1,18 @@
+{
+  "name": "ledger",
+  "version": "1.0.0",
+  "description": "To keep group finances simple.",
+  "main": "bot.js",
+  "author": "chiragnighut05#4977",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "0.1.0-canary.0",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0",
+    "emoji-regex": "^9.2.2",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  }
+}
